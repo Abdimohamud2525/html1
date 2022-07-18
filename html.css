@@ -1,0 +1,60 @@
+https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,300&family=Roboto:ital,wght@0,300;0,400;1,300&display=swap');
+*{
+    
+  margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /*marginaali: 0;
+    pehmuste: 0;
+    laatikon koko: border-box; */
+
+
+
+}
+nav ul{
+    display: flex;
+    justify-content: space-between;
+    border-bottom: red;
+    position: none;
+
+   
+}
+nav ul li{
+    border-radius: none;
+}
+body{
+    font-size:Roboto ¨sans-serif ;
+    font-size: 1,2ram;
+    font-weight: 300px;
+    background-color: aqua; 
+}
+#myheader{
+    background-color: rgb(128, 127, 130);
+    text-align: center;
+    border: rgb(128, 127, 130);
+    color: beige;
+}
+.header1{
+    background: local;
+}
+    .seconclass{
+        border: none;
+        padding: 10px;
+        margin: auto;
+        
+
+    }
+    .theree{
+        background-color: black;
+        color: aliceblue;
+    }
+    h1{
+        color: blue;
+        border: none;
+    }
+    table,tr, td {
+        border:1px solid black
+        
+    }
+
